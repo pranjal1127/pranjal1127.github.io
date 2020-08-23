@@ -2,18 +2,21 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
+  - C++ (Competative Programming)
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
   - Node.js
-  - WordPress
+  - Solidity
+  - web3
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Pranjal, a student in IIIT kota.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am very enthusiastic to build product based on Blockchain technology.
+
+I am persuing my B.tech degree from Indian institute of information technology,kota( [IIIT kota](https://www.iiitkota.ac.in) ) in Computer Science and Engineering (2018 - present).
 
 Here are a few technologies I've been working with recently:

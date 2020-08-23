@@ -1,8 +1,10 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
+name: 'Pranjal Agrawal'
 subtitle: 'I build things for the web.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.Building awesome WebApp.
+
+I have enthusiasm in Blockchain development, and build a decentralized application(DApps) in Blockchain network.
