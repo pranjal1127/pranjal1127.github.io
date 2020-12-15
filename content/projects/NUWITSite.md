@@ -1,13 +1,13 @@
 ---
 date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+title: 'CgCalCulator'
+github: 'https://github.com/pranjal1127/CgCalCulator'
+external: 'https://pranjal1127.github.io/CgCalCulator/'
 tech:
-  - Jekyll
+  - JQuery
   - Bootstrap
 company: 'Northeastern'
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+CgCalculator is A web script to calculate your CG on the Basis of your grades on your subject

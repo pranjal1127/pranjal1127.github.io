@@ -109,8 +109,8 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/archive" />
+        <title>Archive | Pranjal Agrawal</title>
+        <link rel="canonical" href="https://pranjalagrawal.me" />
       </Helmet>
 
       <StyledMainContainer>
@@ -119,7 +119,7 @@ const ArchivePage = ({ location, data }) => {
           <p className="subtitle">A big list of things I’ve worked on</p>
         </header>
 
-        <StyledTableContainer ref={revealTable}>
+        {/* <StyledTableContainer ref={revealTable}>
           <StyledTable>
             <thead>
               <tr>
@@ -209,7 +209,7 @@ const ArchivePage = ({ location, data }) => {
                 })}
             </tbody>
           </StyledTable>
-        </StyledTableContainer>
+        </StyledTableContainer> */}
       </StyledMainContainer>
     </Layout>
   );

@@ -12,7 +12,7 @@ module.exports = {
   location: 'Jaipur,Rajasthan',
   email: '2018kucp1127@iiitkota.ac.in',
   github: 'https://github.com/pranjal1127',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@pranjal85',
   socialMedia: [
     {
       name: 'GitHub',

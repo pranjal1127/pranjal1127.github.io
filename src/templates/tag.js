@@ -52,7 +52,7 @@ const TagTemplate = ({ pageContext, data, location }) => {
 
   return (
     <Layout location={location}>
-      <StyledTagsContainer>
+      {/* <StyledTagsContainer>
         <span className="breadcrumb">
           <span className="arrow">&larr;</span>
           <Link to="/pensieve">All memories</Link>
@@ -94,7 +94,7 @@ const TagTemplate = ({ pageContext, data, location }) => {
             );
           })}
         </ul>
-      </StyledTagsContainer>
+      </StyledTagsContainer> */}
     </Layout>
   );
 };

@@ -42,11 +42,11 @@ const PostTemplate = ({ data, location }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>{title} | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/pensieve" />
+        <title>{title} | Pranjal Agrawal</title>
+        <link rel="canonical" href="https://pranjalagrawal.me" />
       </Helmet>
 
-      <StyledPostContainer>
+      {/* <StyledPostContainer>
         <span className="breadcrumb">
           <span className="arrow">&larr;</span>
           <Link to="/pensieve">All memories</Link>
@@ -74,7 +74,7 @@ const PostTemplate = ({ data, location }) => {
         </StyledPostHeader>
 
         <StyledPostContent dangerouslySetInnerHTML={{ __html: html }} />
-      </StyledPostContainer>
+      </StyledPostContainer> */}
     </Layout>
   );
 };
