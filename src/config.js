@@ -6,7 +6,7 @@ module.exports = {
     'Pranjal Agrawal, pranjal,pranjal85, agrawal,Agrawal, pranjal1127, software engineer, front-end engineer, web developer, javascript, IIITKOTA,react,blockchain',
   siteUrl: 'https://pranjalagrawal.me/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'G-YGH7LJRQE7',
   googleVerification: '',
   name: 'Pranjal Agrawal',
   location: 'Jaipur,Rajasthan',
