@@ -41,5 +41,5 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm install gh-pages --save-dev
+      - run: npm install gh-pages gatsby --save-dev
       - run: npm run deploy
