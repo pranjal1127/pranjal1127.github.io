@@ -43,4 +43,4 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm install
       - run: npm install gh-pages gatsby --save-dev
-      - run: npm run deploy
+      - run: gatsby build && gh-pages -d public -r ${{secrets.GH_TOKEN}}
